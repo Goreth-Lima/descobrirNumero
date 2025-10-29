@@ -18,7 +18,7 @@ Pequeno jogo em Node.js (console) onde o jogador tenta adivinhar um número alea
 2. Vá para a pasta do jogo:
 
 3.Clonar o repositório:
-git clone
+git clone https://github.com/Goreth-Lima/descobrirNumero.git
 4. Instale a dependência:
    npm install prompt-sync
 5. Execute o jogo:
